@@ -1,3 +1,5 @@
 My terminal looks kinda lit
 
 This line was added in VS Code
+
+this line is added to test writing commit messages in VS code!
